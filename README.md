@@ -23,3 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 - Propiedades de listview :https://codesinsider.com/flutter-listview-example/?expand_article=1
 - David Rodriguez Jurado 6-j
 
+# Resultados
+ ![image](https://github.com/OneDavidrdz131/p10-listacard-6j/assets/143547422/78b036dc-46df-4ed4-aa58-ec8d8fd59723)
+
+
